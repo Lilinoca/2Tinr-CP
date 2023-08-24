@@ -22,4 +22,4 @@ jobs:
       run: npm install
 
     - name: Run Node.js script
-      run: node path/to/your/server.js
+      run: npm server.js
